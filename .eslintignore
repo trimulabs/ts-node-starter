@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+
+node_modules
+.env
+/build
+src/generated
+yarn-error.log
+package-lock.json
